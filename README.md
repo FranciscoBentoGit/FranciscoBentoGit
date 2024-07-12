@@ -1,7 +1,7 @@
 ## Hi there, I'm Francisco 👋
 
-<a href="https://linkedin.com/in/franciscobentoo"><img src="[https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png](https://github.com/FranciscoBentoGit/FranciscoBentoGit/blob/main/LI-Logo.png)" /></a>&nbsp;
-  
+<a href="https://linkedin.com/in/franciscobentoo"><img src="https://raw.githubusercontent.com/FranciscoBentoGit/FranciscoBentoGit/main/LI-Logo.png" /></a>&nbsp;
+
 <br />
 
 I am a Dev & UX Accessibility Specialist at <a href="https://atos.net/en/">Atos</a>. I love to **learn** about new technology, **connect** with people around the world and **help** others get into tech as well.
