@@ -15,23 +15,7 @@ I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First
 ## 💼 Languages and Tools
 
 <br />
-<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBentoGit&langs_count=10&size_weight=0&count_weight=1)
-</div>
-  
-<!--
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
--->
-  <!--
-</td>-->
-<!-- <td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
-  
-</td></tr></table> -->
-
 <br />
 
 ## 📕 Latest Blog Posts
