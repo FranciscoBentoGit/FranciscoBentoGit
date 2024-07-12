@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBentoGit&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBentoGit&langs_count=10&size_weight=0&count_weight=1)
 
 
 <!--
