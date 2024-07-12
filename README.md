@@ -1,6 +1,6 @@
 ## Hi there, I'm Francisco 👋
 
-<a href="https://linkedin.com/in/franciscobentoo"><img src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" /></a>&nbsp;
+<a href="https://linkedin.com/in/franciscobentoo"><img src="[https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png](https://github.com/FranciscoBentoGit/FranciscoBentoGit/blob/main/LI-Logo.png)" /></a>&nbsp;
   
 <br />
 
