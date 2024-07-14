@@ -24,4 +24,4 @@ I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First
   
 ## 💼 Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBentoGit&langs_count=10&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBentoGit&langs_count=20&size_weight=0&count_weight=1)
