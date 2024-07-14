@@ -1,6 +1,13 @@
 ## Hi there, I'm Francisco 👋
 
-<a href="https://linkedin.com/in/franciscobentoo"><img src="https://raw.githubusercontent.com/FranciscoBentoGit/FranciscoBentoGit/main/LI-Logo.png" /></a>&nbsp;
+<p align="center">
+    <a href="https://linkedin.com/in/franciscobentoo">
+        <img alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/FranciscoBentoGit/FranciscoBentoGit/main/LI-Logo.png?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/FranciscoBentoGit">
+        <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/FranciscoBentoGit?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+    </a>
+</p>
 
 <br />
 
