@@ -14,7 +14,7 @@
 
 <br />
 
-As a dedicated and enthusiastic MSc student in Telecommunications and Informatics Engineering, I am passionate about advancing my knowledge and skills in this wide field. While my professional experience is currently limited to an enriching collaboration with Nokia for my 5G Thesis, this opportunity has provided me with invaluable insights and practical exposure to cutting-edge technologies and industry practices. 
+As a dedicated and enthusiastic MSc student in Telecommunications and Informatics Engineering, I am passionate about advancing my knowledge and skills in this wide field. While my professional experience is currently limited to an enriching MSc Thesis collaboration with Nokia's 5G Core team, this opportunity has provided me with invaluable insights and practical exposure to cutting-edge technologies and industry practices. 
 
 My academic journey has been marked by a relentless pursuit of learning and a keen interest in exploring new challenges. My commitment to continuous learning and adaptability makes me well-prepared to tackle complex problems and thrive in a rapidly evolving technological landscape.
 
