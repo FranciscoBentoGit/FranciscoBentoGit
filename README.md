@@ -38,3 +38,12 @@ I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First
 ## 💼 Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBentoGit&langs_count=10&size_weight=0&count_weight=1)
+
+## Top Respositories
+  <p align="left">
+<a href="https://github.com/FranciscoBentoGit/SIRS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FranciscoBentoGit&repo=SIRS&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/FranciscoBentoGit/TE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FranciscoBentoGit&repo=TE&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/FranciscoBentoGit/SEC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FranciscoBentoGit&repo=SEC&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/FranciscoBentoGit/RV"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FranciscoBentoGit&repo=RV&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/FranciscoBentoGit/SSOF"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FranciscoBentoGit&repo=SSOF&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
+</p>
