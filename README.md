@@ -21,6 +21,19 @@ I am <a href="https://developers.google.com/community/experts">Google Developer 
 I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First</a>, where I share articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. I give talks and attend discussions about accessibility and how to get into tech as a selftaught developer.
 
 **Some doors have to be closed to make room for something new.**
+
+## Profile Views
+
+  <table>
+    <tr>
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/FranciscoBentoGit"> <img src="https://komarev.com/ghpvc/?username=FranciscoBentoGit&style=for-the-badge&color=236AD3"> </a>
+      </td>
+    </tr>
+  </table>
   
 ## 💼 Languages and Tools
 
