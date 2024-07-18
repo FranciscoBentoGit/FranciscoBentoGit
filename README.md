@@ -33,7 +33,7 @@ My academic journey has been marked by a relentless pursuit of learning and a ke
   
 ## 💼 Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBentoGit&langs_count=10&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats-franciscobentogits-projects.vercel.app/api/top-langs/?username=FranciscoBentoGit&langs_count=10&size_weight=0&count_weight=1)
 
 ## Top Respositories
   <p align="left">
